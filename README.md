@@ -30,8 +30,11 @@ You can install the additional dependencies by running the corresponding cells i
 The Jupyter notebook provides a step-by-step guide to training your tumor segmentation model. Key steps include:
 
 1. Data preprocessing and loading the BRATS dataset.
-2. Defining and training your custom segmentation model.
-3. Evaluating the model performance
+![](images/loading.png) 
+3. Defining and training your custom segmentation model.
+4. Evaluating the model performance
+   ![](images/eval.png)
+   ![](images/eval 2.png) 
 
 ## Loading Models from the MONAI Model Zoo
 
