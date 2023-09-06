@@ -1,4 +1,6 @@
 # Brain-Tumour-Segmentation
+![](images/clara_pt_brain_mri_segmentation_workflow.png)
+
 
 ## Overview
 
