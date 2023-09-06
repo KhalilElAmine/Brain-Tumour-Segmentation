@@ -49,13 +49,23 @@ To gain insights into your model's performance, the notebook includes sections f
 
 - Visualize segmented tumor regions using itkwidgets.
 
+   ![](images/image+mask.png)
+   ![](images/mask+imageslice.png)
 
 ## Usage
 
 Here's how to use this Jupyter Notebook:
 
-1. Clone or download the repository to your local machine:
+1. Clone or download the repository to your local machine.
+2. Open and run the Jupyter notebook to explore the chapters on training, loading pre-trained models, and visualizing segmentation results.
 
-```bash
-git clone https://github.com/your-username/tumor-segmentation.git
-cd tumor-segmentation
+## Acknowledgments
+
+I would like to express my gratitude to the following organizations for their contributions and support throughout the development of this project:
+
+- The MONAI framework team for their excellent open-source library for medical image analysis. [MONAI](https://monai.io/)
+
+- The creators of the BRATS Decathlon dataset for providing a valuable resource for brain tumor segmentation. [BRATS Decathlon](https://decathlon-10.grand-challenge.org/)
+
+
+
