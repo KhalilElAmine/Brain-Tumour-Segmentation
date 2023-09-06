@@ -34,7 +34,7 @@ The Jupyter notebook provides a step-by-step guide to training your tumor segmen
 3. Defining and training your custom segmentation model.
 4. Evaluating the model performance
    ![](images/eval.png)
-   ![](images/eval 2.png) 
+   ![](images/eval2.png) 
 
 ## Loading Models from the MONAI Model Zoo
 
